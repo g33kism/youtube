@@ -1,12 +1,12 @@
 # Youtube API Demos
 ### Getting API Key
 - [https://console.developers.google.com/apis/api/youtube.googleapis.com/overview](https://console.developers.google.com/apis/api/youtube.googleapis.com/overview)
-- [OAth Registration](https://developers.google.com/youtube/registering_an_application)
+- [OAuth Registration](https://developers.google.com/youtube/registering_an_application)
 
 ###  Agenda:
 - IFrame API : IFrame.html
 - Data API : DataApi.html
-    - OAth
+    - OAuth
     - Video Uploads
 
 
